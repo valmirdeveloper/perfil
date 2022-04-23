@@ -6,6 +6,7 @@ ul{
     padding: 17px;
     background-color: rgb(230, 226, 0);
     margin: 0;
+    padding: 20px;
     
 }
 
@@ -21,7 +22,7 @@ header img{
     width: 230px;
     height: 230px;
     border-radius: 50%;
-    border: 5px solid green;
+    border: 5px solid rgb(230, 226, 0);
 }
 
 .center{
@@ -29,7 +30,7 @@ header img{
 }
 
 h1{
-    color: chartreuse;
+    color: rgb(230, 226, 0);
 }
 
 
